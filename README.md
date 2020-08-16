@@ -2,11 +2,11 @@
 
 Experienced Software Engineer, Aspiring Game Developer, Hobbyist Artist.
 
-## Need some help? Find Me Here:
+## Need some help? Send me a message 📫
 * [ArtStation](https://www.artstation.com/blinfoldking)
 * [LinkedIn](https://www.linkedin.com/in/ganeshad)
 * [Instagram](https://www.instagram.com/blinfoldking/)
-* [email](mailto://ganeshadanu1@gmail.com)
+* [Email](mailto://ganeshadanu1@gmail.com)
 <!--
 **BlinfoldKing/BlinfoldKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
