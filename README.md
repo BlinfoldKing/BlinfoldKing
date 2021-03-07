@@ -12,6 +12,7 @@ Currently making my own game as an indie developer.
 * [LinkedIn](https://www.linkedin.com/in/ganeshad)
 * [Instagram](https://www.instagram.com/blinfoldking/)
 * [Email](mailto://ganeshadanu1@gmail.com)
+* [Blog](https://blinfoldking.dev)
 <!--
 **BlinfoldKing/BlinfoldKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
